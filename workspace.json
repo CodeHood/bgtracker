@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "client": "packages/client",
+    "client-e2e": "packages/client-e2e",
+    "lib": "packages/lib",
+    "server": "packages/server"
+  }
+}
